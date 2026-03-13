@@ -82,6 +82,8 @@ sql-ecommerce-sales-analysis/
 ├── data_inserts.sql
 ├── analysis_queries.sql
 └── README.md
+```
+---
 
 ## Author
 
