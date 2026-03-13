@@ -69,8 +69,9 @@ Some key insights from the analysis include:
 
 ### Monthly Revenue
 
-![Monthly Revenue](images/monthly_revenue.png)
+![Montlhy Revenue](images/monthly_revenue.png)
 
+---
 
 ## Files in This Repository
 
