@@ -78,14 +78,14 @@ Some key insights from the analysis include:
 ```text
 sql-ecommerce-sales-analysis
 │
-├── schema.sql
-├── data_inserts.sql
-├── analysis_queries.sql
 ├── images
 │   ├── monthly_revenue.png
 │   ├── query_revenue_by_product.png
 │   └── top_customers.png
 └── README.md
+├── analysis_queries.sql
+├── data_inserts.sql
+├── schema.sql
 ```
 ---
 
