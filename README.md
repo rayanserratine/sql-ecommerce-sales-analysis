@@ -57,6 +57,21 @@ Some key insights from the analysis include:
 
 ---
 
+## Example Analysis
+
+### Revenue by Product
+
+![Revenue by Product](images/query_revenue_by_product.png)
+
+### Top Customers
+
+![Top Customers](images/top_customers.png)
+
+### Monthly Revenue
+
+![Monthly Revenue](images/monthly_revenue.png)
+
+
 ## Files in This Repository
 
 ```text
@@ -66,3 +81,10 @@ sql-ecommerce-sales-analysis/
 ├── data_inserts.sql
 ├── analysis_queries.sql
 └── README.md
+
+## Author
+
+**Rayan Serratine**
+
+Data Analytics Portfolio  
+Vancouver, Canada
